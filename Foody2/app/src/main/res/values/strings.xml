@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Foody2</string>
+    <string name="phienban">Version</string>
+    <string name="dangtai">Đang tải...</string>
+    <string name="tenccongty">Trọng Nguyễn</string>
+    <string name="email">Email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="hoac">Hoặc</string>
+    <string name="app_id">438819126456267</string>
+    <string name="google">Login with Google</string>
+    <string name="facebook">Login with Facebook</string>
+    <string name="quenmatkhau">Quên mật khẩu</string>
+    <string name="dangkimoi">Đăng kí mới</string>
+    <string name="dangki">Đăng kí</string>
+    <string name="thongbaoloidangki">Bạn chưa nhập</string>
+    <string name="thongbaonhaplaimatkhau">Nhập lại không giống</string>
+    <string name="dangkithanhcong">Đăng kí thành công</string>
+    <string name="xulyprogess">Đang xử lý, vui lòng đợi</string>
+    <string name="loidangnhap">Đăng nhập thất bại, vui lòng kiểm tra lại tài khoản</string>
+    <string name="khoiphucmatkhau">Khôi phục mật khẩu</string>
+    <string name="chuoikhoiphucmatkhau">Bạn vui lòng nhập email vào khung bên dưới để khôi phục mật khẩu</string>
+    <string name="guimail">Gửi mail</string>
+    <string name="dangkiquenmatkhau"><u>Bạn không phải thành viên? click để đăng kí</u></string>
+    <string name="thongbaoloiemail">Email không hợp lệ, vui lòng nhập lại</string>
+    <string name="thongbaoemail">Đã gửi email kích hoạt, vui lòng kiểm tra</string>
+    <string name="odau">Ở đâu</string>
+    <string name="angi">Ăn gì</string>
+    <string name="moinhat">Mới nhất</string>
+    <string name="danhmuc">Danh mục</string>
+    <string name="khuvuc">Khu vực</string>
+    <string name="gantoi">Gần tôi</string>
+    <string name="giaohang">Giao hàng</string>
+    <string name="gameandfun">Game and Fun</string>
+    <string name="blogs">Blogs</string>
+    <string name="topmember">Top thành viên</string>
+    <string name="danhgia">Đánh giá</string>
+    <string name="datmon">Đặt món</string>
+    
+</resources>

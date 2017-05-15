@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B71C1C"
+    tools:context="androi30_b.foody2.View.DangNhapActivity">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="40dp"
+            android:text="@string/khoiphucmatkhau"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="30dp"
+            android:text="@string/chuoikhoiphucmatkhau"
+            android:textColor="#ffffff" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="50dp"
+                android:src="@drawable/user" />
+
+            <EditText
+                android:id="@+id/edEmailKP"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="#ffffff"
+                android:hint="@string/email"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="italic" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btnGuiMail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:background="@drawable/radius_button"
+            android:backgroundTint="#ffffff"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp"
+            android:text="@string/guimail"
+            android:textAllCaps="false" />
+        <TextView
+            android:id="@+id/txtDangKiKP"
+            android:textStyle="italic"
+            android:text="@string/dangkiquenmatkhau"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</LinearLayout>
